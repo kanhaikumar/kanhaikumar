@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kanhaikumar
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently pursuing  diploma in computer science
+- 🌱 I’m had completeed diploma in computer science
+- 
 
 - 📫 How to reach me ...
 
